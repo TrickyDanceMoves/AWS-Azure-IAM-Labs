@@ -1,0 +1,35 @@
+<svg width="1280" height="400" viewBox="0 0 680 200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="680" height="200" fill="#002244"/>
+
+  <polygon points="0,200 120,0 680,0 680,200" fill="#1B4D2E" opacity="0.55"/>
+  <polygon points="0,200 200,0 680,0 680,200" fill="#1B4D2E" opacity="0.3"/>
+
+  <line x1="0" y1="160" x2="680" y2="160" stroke="#69BE28" stroke-width="4"/>
+  <line x1="0" y1="168" x2="680" y2="168" stroke="#A8C4A2" stroke-width="1" opacity="0.3"/>
+
+  <polygon points="50,40 90,60 90,120 50,140 10,120 10,60" fill="none" stroke="#69BE28" stroke-width="1.5" opacity="0.25"/>
+  <polygon points="590,30 640,55 640,125 590,150 540,125 540,55" fill="none" stroke="#69BE28" stroke-width="1.5" opacity="0.2"/>
+  <polygon points="610,50 645,68 645,118 610,136 575,118 575,68" fill="none" stroke="#A8C4A2" stroke-width="0.8" opacity="0.15"/>
+
+  <g transform="translate(60, 80)">
+    <polygon points="0,-38 11,-12 38,-12 16,5 24,31 0,15 -24,31 -16,5 -38,-12 -11,-12" fill="#69BE28" opacity="0.15"/>
+    <polygon points="0,-28 8,-9 28,-9 12,4 18,23 0,11 -18,23 -12,4 -28,-9 -8,-9" fill="none" stroke="#69BE28" stroke-width="1" opacity="0.4"/>
+  </g>
+
+  <g transform="translate(620, 90)">
+    <polygon points="0,-28 8,-9 28,-9 12,4 18,23 0,11 -18,23 -12,4 -28,-9 -8,-9" fill="none" stroke="#69BE28" stroke-width="1" opacity="0.3"/>
+  </g>
+
+  <text x="340" y="95" font-family="'Barlow Condensed', 'Arial Narrow', Arial, sans-serif" font-size="72" font-weight="900" fill="#FFFFFF" text-anchor="middle" letter-spacing="4">SEAHAWKS</text>
+
+  <text x="340" y="128" font-family="'Barlow Condensed', 'Arial Narrow', Arial, sans-serif" font-size="18" font-weight="700" fill="#69BE28" text-anchor="middle" letter-spacing="10">POWERSHELL LAB</text>
+
+  <rect x="120" y="119" width="180" height="2" fill="#69BE28" opacity="0.5"/>
+  <rect x="380" y="119" width="180" height="2" fill="#69BE28" opacity="0.5"/>
+
+  <text x="340" y="150" font-family="'Barlow Condensed', 'Arial Narrow', Arial, sans-serif" font-size="13" font-weight="700" fill="#A8C4A2" text-anchor="middle" letter-spacing="6">BULK USER CREATION · WINDOWS LOCAL ACCOUNTS</text>
+
+  <circle cx="340" cy="180" r="2" fill="#69BE28" opacity="0.7"/>
+  <circle cx="316" cy="180" r="2" fill="#69BE28" opacity="0.4"/>
+  <circle cx="364" cy="180" r="2" fill="#69BE28" opacity="0.4"/>
+</svg>
